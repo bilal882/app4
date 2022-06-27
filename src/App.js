@@ -5,7 +5,7 @@ import Slider from "./Components/Slider";
 function App() {
   return (
     <div>
-      <Navbar />
+      <Navbar /> 
       <Slider />
       <Cards /> 
     </div>
