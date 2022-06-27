@@ -6,7 +6,7 @@ function App() {
   return (
     <div>
       <Navbar /> 
-      <Slider />
+      <Slider /> 
       <Cards /> 
     </div>
   );
