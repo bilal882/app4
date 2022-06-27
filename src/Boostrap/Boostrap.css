@@ -24,7 +24,9 @@
     --bs-font-monospace: SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace;
     --bs-gradient: linear-gradient(180deg, rgba(255, 255, 255, 0.15), rgba(255, 255, 255, 0))
 }
-
+.text-shadow{
+    text-shadow: 1px 1px 4px  rgb(255, 124, 124) , -5px -2px ;
+}
 *,
 ::after,
 ::before {
